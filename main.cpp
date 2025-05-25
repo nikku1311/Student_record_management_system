@@ -7,9 +7,9 @@
 using namespace std;
 
 const char* HOST = "localhost";
-const char* USER = "root";
-const char* PW = "nikku@13";
-const char* DB = "mydb";
+const char* USER = "root";//your user name
+const char* PW = "your password";
+const char* DB = "mydb";//your database name
 
 class University {
 private:
